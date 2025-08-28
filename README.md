@@ -3,14 +3,14 @@ Compilador
 Un compilador completo en Rust que transforma código fuente en lenguaje ensamblador x86-64 para Windows y Unix. 
 📋 Descripción 
 
-Este proyecto implementa un compilador completo con todas las fases tradicionales de compilación: 
+* Este proyecto implementa un compilador completo con todas las fases tradicionales de compilación: 
 
-    Análisis léxico
-    Análisis sintáctico
-    Análisis semántico
-    Generación de código intermedio
-    Optimización
-    Generación de código ensamblador
+   * Análisis léxico
+   * Análisis sintáctico
+   * Análisis semántico
+   * Generación de código intermedio
+   * Optimización
+   * Generación de código ensamblador
      
 
 🚀 Características 

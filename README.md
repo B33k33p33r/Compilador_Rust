@@ -16,13 +16,13 @@ Un compilador completo en Rust que transforma código fuente en lenguaje ensambl
 🚀 Características 
 Lenguaje Soportado 
 
-    Tipos de datos: int, bool, string, arrays
-    Variables: Declaración con let y tipado opcional
-    Funciones: Con parámetros, valores de retorno y verificación de tipos
-    Estructuras de control: if/else, while, for
-    Operaciones: Aritméticas, lógicas y de comparación
-    Arrays: Unidimensionales y multidimensionales
-    Strings: Con operaciones completas
+   * Tipos de datos: int, bool, string, arrays
+   * Variables: Declaración con let y tipado opcional
+   * Funciones: Con parámetros, valores de retorno y verificación de tipos
+   * Estructuras de control: if/else, while, for
+   * Operaciones: Aritméticas, lógicas y de comparación
+   * Arrays: Unidimensionales y multidimensionales
+   * Strings: Con operaciones completas
      
 
 Optimizaciones 

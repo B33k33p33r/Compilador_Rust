@@ -27,10 +27,10 @@ Lenguaje Soportado
 
 Optimizaciones 
 
-    Constant Folding: Evaluación de expresiones constantes en tiempo de compilación
-    Dead Code Elimination: Eliminación de código no utilizado
-    Common Subexpression Elimination: Eliminación de subexpresiones repetidas
-    Loop Optimization: Optimización de bucles
+   + Constant Folding: Evaluación de expresiones constantes en tiempo de compilación
+   + Dead Code Elimination: Eliminación de código no utilizado
+   + Common Subexpression Elimination: Eliminación de subexpresiones repetidas
+   + Loop Optimization: Optimización de bucles
      
 
 Multiplataforma 

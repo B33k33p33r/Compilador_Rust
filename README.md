@@ -1,8 +1,9 @@
 Compilador 
-
+-
 Un compilador completo en Rust que transforma código fuente en lenguaje ensamblador x86-64 para Windows y Unix. 
-📋 Descripción 
 
+📋 Descripción 
+-
 Este proyecto implementa un compilador completo con todas las fases tradicionales de compilación: 
 
     Análisis léxico
@@ -14,6 +15,7 @@ Este proyecto implementa un compilador completo con todas las fases tradicionale
      
 
 🚀 Características 
+-
 Lenguaje Soportado 
 
     Tipos de datos: int, bool, string, arrays
@@ -39,7 +41,7 @@ Multiplataforma
     Unix/Linux/macOS: Genera código compatible con sistemas Unix
 
 🛠️ Requisitos 
-
+-
     Rust: Versión 1.56 o superior
     NASM: Ensamblador para generar código objeto
     GCC/Clang (Unix) o Visual Studio (Windows): Para enlazar el código

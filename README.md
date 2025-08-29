@@ -1,4 +1,4 @@
-Compilador 
+📚 Compilador 
 -
 Un compilador completo en Rust que transforma código fuente en lenguaje ensamblador x86-64 para Windows y Unix. 
 

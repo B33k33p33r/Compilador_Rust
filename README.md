@@ -35,6 +35,6 @@ Optimizaciones
 
 Multiplataforma 
 
-    Windows: Genera código compatible con Microsoft Visual C++
-    Unix/Linux/macOS: Genera código compatible con sistemas Unix
+   + Windows: Genera código compatible con Microsoft Visual C++
+   + Unix/Linux/macOS: Genera código compatible con sistemas Unix
      

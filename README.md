@@ -13,7 +13,8 @@ Un compilador completo en Rust que transforma código fuente en lenguaje ensambl
   * Generación de código ensamblador
      
 
-🚀 Características 
+🚀 Características
+-
 Lenguaje Soportado 
 
    * Tipos de datos: int, bool, string, arrays
